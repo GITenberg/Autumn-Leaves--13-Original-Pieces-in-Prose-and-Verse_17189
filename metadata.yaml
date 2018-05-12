@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7207
 description: Images of the original pages are available through the Wright American
   Fiction Project of the Library Electronic Text Service of Indiana University. http://www.letrs.indiana.edu/web/w/wright2/
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17189#Autumn-Leaves--13-Original-Pieces-in-Prose-and-Verse
 gutenberg_issued: '2005-11-30'
 gutenberg_type: Text
 identifiers:
